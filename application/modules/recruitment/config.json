@@ -1,0 +1,40 @@
+{
+    "name": "Tuyển dụng",
+    "description": "Quản lý thông tin Tuyển dụng",
+    "class_name": "recruitment",
+    "icon": "id-card-o",
+    "serial": 103,
+    "type": "eoffice",
+    "menu": [{
+            "name": "Tin tuyển dụng",
+            "icon": "id-card-o",
+            "action": "recruitment.index",
+            "extract" : "add"
+        },
+  
+        {
+            "name": "Danh sách ứng tuyển",
+            "icon": "list-alt",
+            "action": "recruitment.apply"
+        },
+        {
+            "name": "Tin tức",
+            "icon": "file-text-o",
+            "action": "recruitment.news"
+        },
+
+        {
+            "name": "Album",
+            "icon": "photo",
+            "action": "recruitment.album"
+        },
+ 
+        {
+            "name": "Cấu hình",
+            "icon": "cog",
+            "action": "recruitment.config"
+        }
+
+
+    ]
+}
