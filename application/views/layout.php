@@ -50,7 +50,7 @@
           <div class="col-xxl-3 col-lg-3">
             <a class="navbar-brand d-none d-lg-block fs-3 fw-bolder text-dark" href="<?= base_url() ?>">
               <img src="<?= base_url('assets/images/shopping-cart.png') ?>" alt="eCommerce HTML Template" style="height: 50px; object-fit: cover;">
-              Fresh Snack
+              Fresh Food
             </a>
             <div class="d-flex justify-content-between w-100 d-lg-none fs-3 fw-bolder text-dark">
               <a class="navbar-brand" href="<?= base_url() ?>">
